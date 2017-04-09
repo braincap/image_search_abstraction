@@ -1,0 +1,16 @@
+{
+  "name": "image_search_abstraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.25"
+  }
+}
